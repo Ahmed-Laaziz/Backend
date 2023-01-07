@@ -7,7 +7,7 @@ Ensaj-Monument est une application itinérante qui permet aux utilisateurs de re
 
 Dépot:https://github.com/Ahmed-Laaziz/partieMobile
 
-#### Partie Mobile
+#### Partie Frontend
 
 Dépot:https://github.com/Ahmed-Laaziz/frontend
 
