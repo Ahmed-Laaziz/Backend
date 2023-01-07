@@ -24,7 +24,18 @@ Gestion des utilisateurs :
 -Gestion de l'authentification par un token Bearer JWT
 -Gestion des utilisateurs par l’administrateur
 
+#### Conception UML
 
+Voici la conception UML de notre application
+*4.1* Diagramme de cas d'utilisation  | *4.2* Diagramme de classe 
+:------------:|:---------------:
+![Imgur](https://imgur.com/lPdVXvE.jpg)  |  ![Imgur](https://imgur.com/oa6v6jw.jpg) 
+#### Architecture de l'application
+
+Voici l'architecture générale de notre application
+*5.1* Architecture générale
+:------------:
+![Imgur](https://imgur.com/KPrwjjI.jpg) 
 
 
 ### Outils de développement
