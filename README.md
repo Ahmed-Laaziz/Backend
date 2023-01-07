@@ -1,6 +1,6 @@
 ## Application Web de Gestion des monuments par villes et par zones
 Ensaj-Monument est une application itinérante qui permet aux utilisateurs de rechercher dans leur voisinage afin de découvrir les points de repère les plus proches et les plus populaires.
-### Main theoretical concepts: 
+### Principaux concepts théoriques: 
 -   Conception et Developement d’une application Web de gestion des villes,monuments et zone. (Partie Backend)
 
 #### Partie Mobile
